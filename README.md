@@ -142,7 +142,8 @@ This allows us to **embed message bits within pixel bytes**, creating a *stego-i
 
 **👤 Nandan U**  
 🎓 B.E. Electronics and Communication Engineering  
-🏫 Vidya Vikas Institute of Engineering and Technology, Mysuru  
+🏫 Vidya Vikas Institute of Engineering and Technology, Mysuru
+💼 Trainee – Embedded Systems, Emertxe Information Technologies, Bengaluru 
 📧 [nandanunandanu1@gmail.com](mailto:nandanunandanu1@gmail.com)  
 
 ---
